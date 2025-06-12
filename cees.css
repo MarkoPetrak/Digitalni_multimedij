@@ -1,0 +1,41 @@
+p {
+	color: burlywood ;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color: darkgoldenrod;
+	padding: 20px;
+}
+.paragraf_2 {color:palevioletred; background-color: rgba(155, 25, 255, 0.2)}
+.novi_blok {
+	background-color: rgba(255, 105, 255, 0.5);
+	padding:20px;
+	margin:20px;
+    width:50%;
+}
+h1, h2{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color:mediumpurple;
+}
+
+span{color: rgb(255, 0, 0);}
+.pozadina{
+     background-image: url("slike/vjezba7.jpg");
+}
+.drugapozadina {
+	background-color: darkgray;
+}
+a:link  {
+    color: black;
+    background-color: white;
+    padding: 5px;
+    line-height: 40px;
+    border:1px solid #000000;
+}
+a:hover{
+	background-color: palegreen;
+}
+img {
+	height: 200px;
+}
